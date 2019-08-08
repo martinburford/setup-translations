@@ -1,0 +1,8 @@
+{
+  "errors": {
+    "testError": "Errors test - error"
+  },
+  "fallbackGlobal": {
+    "test": "Fallback global - test"
+  }
+}
